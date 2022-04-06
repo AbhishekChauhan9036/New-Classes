@@ -13,7 +13,7 @@ Explanation: The subset {{0, 1, 1, 0}, {0, 1, 1}, {1, 1}} is the subset of 3 sub
  size 3 is already included.
 
 Input: arr[] = {0, 1, 0, 0, 0, 1 , 0}, K = 1
-Output: 5*/
+Output: 5 //+*/
 
 
 /*
