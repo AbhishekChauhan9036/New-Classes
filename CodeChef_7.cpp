@@ -6,7 +6,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 void BhagWat_Geeta(){
-    int i=0;
     long long int x;
      cin>>x;
      long long int a,b,c,r;
@@ -26,7 +25,7 @@ void BhagWat_Geeta(){
                 cout<<-1<<endl;
      }
      cout<<endl;
-     i++;
+
 }
 int32_t main() {
     int t;
