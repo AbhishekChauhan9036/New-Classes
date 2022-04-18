@@ -1,5 +1,6 @@
 import java.io.*;
 import java.util.*;
+import java.util.Scanner;
 class Queuell{
 	int key;
 	Queuell next;
